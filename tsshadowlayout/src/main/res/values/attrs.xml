@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TSShadowLayout">
+        <attr name="tssl_fill_color" format="color"/>
+        <attr name="tssl_shadow_color" format="color"/>
+        <attr name="tssl_corner_radius" format="dimension"/>
+        <attr name="tssl_dy" format="dimension"/>
+        <attr name="tssl_dx" format="dimension"/>
+        <attr name="tssl_shadow_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
